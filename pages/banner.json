@@ -4,12 +4,7 @@
 		{
 			"title":"Test Event",
 			"link":"http://localhost",
-			"image":"https://arkdigitalsln.github.io/s06.ManiMU-IGCN-Client/banner/banner1.png"
-		},
-		{
-			"title":"Test Notice",
-			"link":"http://localhost",
-			"image":"https://arkdigitalsln.github.io/s06.ManiMU-IGCN-Client/banner/banner2.png"
-		},
+			"image":"https://arkdigitalsln.github.io/mu.s603.manimu.public/banner/banner1.png"
+		}
 	]
 }
